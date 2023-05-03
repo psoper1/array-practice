@@ -1,7 +1,5 @@
 // test
 
-const test = "test";
-
 const characters = [
     {
         name: 'Luke Skywalker',
